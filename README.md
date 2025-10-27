@@ -1,6 +1,3 @@
-- # app-dev
-- My first repository
-  
 # **Dexter Morgan** – My Favorite Series
 
 **Genre:** Crime, Psychological Thriller, Drama  
